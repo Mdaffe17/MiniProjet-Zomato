@@ -1,0 +1,15 @@
+# Data files (large datasets)
+data/*.csv
+data/*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment / OS files
+.env
+.DS_Store
+

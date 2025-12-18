@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-df = pd.read_csv("../data/zomato_sample.csv", encoding="latin-1")
+df = pd.read_csv("data/zomato_sample.csv", encoding="latin-1")
 
 st.title("Restaurants à Bengaluru – Analyse Zomato")
 

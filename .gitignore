@@ -1,6 +1,6 @@
 # Data files (large datasets)
-data/*.csv
-data/*.zip
+
+data/zomato.csv
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/

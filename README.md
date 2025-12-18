@@ -74,5 +74,8 @@ Le lien officiel pour télécharger le dataset orginal est disponible sur Kaggle
 ---
 
 ## Auteur
+
 MOUCTAR DAFFE
+
+---
 Projet réalisé dans un cadre universitaire.

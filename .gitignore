@@ -2,6 +2,9 @@
 
 data/zomato.csv
 
+# Autoriser l'échantillon pour Streamlit
+!data/zomato_sample.csv
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 

@@ -10,6 +10,9 @@ Le projet a été réalisé dans le cadre du cours **8PRO408 – Outils de progr
 
 ---
 
+##APP STREAMLIT: 
+https://miniprojet-zomato-gv89gkgifk97pzajk3xrin.streamlit.app/
+
 ## Structure du projet
 ```
 zomato-bangalore-analysis/
